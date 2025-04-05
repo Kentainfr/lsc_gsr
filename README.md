@@ -1,5 +1,12 @@
 # lsc_gsr
-A simple GSR script for FiveM using ox_lib &amp; ox_target &amp; ox_inventory
+Have you always wanted to have a GunShot Residue (GSR) on your server ?
 
+Now it’s possible and free!
 
-I've been tired of searching and searching for a good and free GSR scripts. Decided to make one, got help from some buddy on discord I only did the ox parts. Used on a average of 100 players server with no issue. Have fun! If there is issue do a pull requests or send me a message on cfx.
+Made with some buddies of mine we decided to release it for free after heavy testing with ~100 players.
+
+Enjoy!
+
+Script requires ox_lib for notification / ox_target to use the item / ox_inventory for the required items
+
+First time making a config.lua as well so not very familiar with it, if there is any issue please let me know !
